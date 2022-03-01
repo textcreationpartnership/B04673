@@ -1,0 +1,600 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Information and direction to such persons as are inclined to America, more especially those related to the province of Pennsylvania.</title>
+            <author>Penn, William, 1644-1718.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1686</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 32 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04673</idno>
+            <idno type="STC">Wing P1302</idno>
+            <idno type="STC">ESTC R181621</idno>
+            <idno type="EEBO-CITATION">52612210</idno>
+            <idno type="OCLC">ocm 52612210</idno>
+            <idno type="VID">179514</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B04673)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179514)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2791:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Information and direction to such persons as are inclined to America, more especially those related to the province of Pennsylvania.</title>
+                  <author>Penn, William, 1644-1718.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1686]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Printed in two columns.</note>
+                  <note>Reproduction of the original in the Newberry Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Pennsylvania --  Emigration and immigration --  Early works to 1800.</term>
+               <term>Pennsylvania --  History --  Colonial period, ca. 1600-1775 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:179514:1" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:179514:1"/>
+            <head>
+               <hi>Information and Direction</hi> TO Such Perſons as are inclined TO AMERICA, MORE Eſpecially Thoſe related to the Province OF PENNSYLVANIA.</head>
+            <p>That the Value and Improvement of <hi>Eſtates</hi> in our Parts of <hi>America,</hi> may yet appear with fur<g ref="char:EOLhyphen"/>ther clearneſs and Aſſurance to Enquirers, I propoſe to ſpeak my own Knowledg, and the Obſervation of others, as particularly as I can; which I ſhall compriſe under theſe Heads.</p>
+            <list>
+               <item>I. The <hi>Advance that is upon Money and Goods.</hi>
+               </item>
+               <item>II. <hi>The Advance that is upon Labour, be it of Han<g ref="char:EOLhyphen"/>dicrafts or others.</hi>
+               </item>
+               <item>III. <hi>The Advance that is upon Land.</hi>
+               </item>
+               <item>IV. <hi>The Charge of Tranſporting a Family, and Fit<g ref="char:EOLhyphen"/>ting a Plantation.</hi>
+               </item>
+               <item>V. <hi>The Way the Poorer ſort may be Tranſported, and Seated, with Advantage to the Rich that help them.</hi>
+               </item>
+               <item>VI. <hi>The eaſier and better proviſion that is to be made there for Poſterity, eſpecially by thoſe that are not of great Subſtance.</hi>
+               </item>
+               <item>VII. <hi>What <g ref="char:V">Ʋ</g>tenſels and Goods are fitting to carry for <g ref="char:V">Ʋ</g>ſe or Profit.</hi>
+               </item>
+            </list>
+            <p>For the firſt, Such <hi>Money</hi> as may be carried, as pieces of eight, advances <hi>Thirty,</hi> and <hi>Goods</hi> at leaſt <hi>Fifty per cent.</hi> Say I have 100 <hi>l. ſterl.</hi> If I am but ſix in Family, I will pay my Paſſage with the advance upon my mo<g ref="char:EOLhyphen"/>ney, and find my hundred pounds good in the Coun<g ref="char:EOLhyphen"/>try at laſt. Upon <hi>Goods,</hi> well bought and ſorted, there is more profit: but ſome money is very requiſit for Trade ſake; for we find it gives Goods a better market; ſo that conſidering the great quantity of Goods already carried, it were not amiſs at preſent, if one half were in <hi>Money,</hi> and the other in <hi>Goods.</hi>
+            </p>
+            <p>Thus in General. But it particularly encourages Mer<g ref="char:EOLhyphen"/>chants, becauſe the profit by <hi>advance,</hi> is ſeldom leſs then 50 <hi>l. ſterl. per cent,</hi> which is very conſiderable; and we have already got ſome things for returns, as <hi>Skins, Furrs, Whale-Oyle, Tobacco,</hi> &amp;c.</p>
+            <p n="2">II. For <hi>Labour,</hi> be it of <hi>Handicrafts,</hi> or <hi>Others,</hi> there is a conſiderable Encouragement by advance of price, to what is here, becauſe the Goods Manufactured there, advance equal to thoſe the Merchant ſells, and where Pro<g ref="char:EOLhyphen"/>viſion is at leaſt as cheap, and there is ſuch additional gain, to the firſt Gain of Handicrafts here (of whom the Merchant buys) the <hi>American Handicraft muſt have an extraordinary time of it.</hi> The like may be ſaid or <hi>
+                  <g ref="char:V">Ʋ</g>nder Labourers,</hi> for ſome time, until the Country be bet<g ref="char:EOLhyphen"/>ter repleniſhed with People.</p>
+            <p n="3">III. The <hi>Advance</hi> upon <hi>Land</hi> is Encouraging, which will be beſt apprehended by an Engliſh underſtanding in a Compariſon with the Lands of <hi>England,</hi> that he is fami<g ref="char:EOLhyphen"/>liarly acquainted with.</p>
+            <p>If 500 Acres of <hi>unclear'd</hi> Land there, indifferently choſen, will <hi>keep as many Milch Cowes,</hi> or <hi>fat as many Bullocks</hi> for the market in Summer, as 50 Acres of im<g ref="char:EOLhyphen"/>proved Land in <hi>England,</hi> as choſen aforeſaid, can do; then by Computing the value of the Summers Graſs of ſuch fifty Acres of Land here, we ſhall the better find the value of 500 Acres of Land in <hi>America;</hi> for within that compaſs the ſame quantity of Cattle may be well kept. Admit this then that the <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Graſs of 50 Acres of midd<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ng Land in <hi>England,</hi> is worth 15 <hi>l.</hi> I conceive that makes 20 <hi>l,</hi> which is the price of the Inheritance of the 500 Acres, no dear Purchaſs. The coſt to go thither is no Objection, be<g ref="char:EOLhyphen"/>cauſe it is paid by the <hi>Advance</hi> that is upon the Money and Goods at the rate aforeforeſaid. If the hazard of the Seas be Objected, we ſee that the <hi>five hundreth</hi> Ship uſing thoſe parts, does not miſcarry, and the Risk is run for themſelves only. However, except in Winter, Paſſages are pleaſant, as well as ſafe.</p>
+            <p>But this Compariſon draws an Objection upon us that muſt be obviated. <hi>What becomes of your ſtock in the Winter?</hi> I ſay our <hi>Woods</hi> uſually keep them for the Mar<g ref="char:EOLhyphen"/>ket till <hi>December,</hi> and unleſs it be a more then ordinary Winter (which is obſerved to happen but once in four or five Years) or that they are young ſtock, or Cat<g ref="char:EOLhyphen"/>tel big with Young, they moſtly ſhift for themſelves. But if Fodder be wanted, we have a ſupply by <hi>H<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y,</hi> we mow in the <hi>Marſhes</hi> and <hi>Woods,</hi> or the <hi>Straw</hi> of the Engliſh Grain we uſe, or the <hi>Tops and Stalks</hi> of Indian Corn, and ſometimes that it ſelf; a Thing <hi>hearty, and eaſily rais'd,</hi> and is good to fat as well as keep, and anſwers to <hi>Oats, Peaſe, Beans</hi> and <hi>Fetches</hi> here, tho we have of them alſo.</p>
+            <p>This Scheam of <hi>Grazing</hi> and keeping of Stock, may inform Inquirers what the Woods and unbroken Lands of thoſe Countrys in ſome ſort will do in proportion to Lands here, and conſequently, what they are worth to Lands here, allowing equally for Care and Fodder on both ſides</p>
+            <p>To be ſhort, the produce of wild Land there in this re<g ref="char:EOLhyphen"/>ſpect, is within leſs then ten to one, of what our cleare<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Land is here, and the purchaſe here, is an hundred to <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Dearer, which muſt needs make <hi>American Lands <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Bargain</hi> to the Purchaſers.</p>
+            <p>Now for <hi>clearing</hi> of our Wood-lands in <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <pb n="2" facs="tcp:179514:2"/>corn; the diff<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>culty is not ſo great as is imagined; our <hi>Trees,</hi> being not ſo thick, or not ſo burdenſome, but that four hands, in four months time, may eaſily clear five and twenty Acres for the Plow; which, at 15 d. Engliſh <hi>per</hi> Day, for each hand, comes to <hi>twenty five ſhillings per Acre.</hi> The encreaſe of which, is with leſs then half the ſeed at leaſt equal to the Improv'd Land of <hi>England.</hi> Add to this, the <hi>ten pence</hi> which buys the ſee of an Acre un<g ref="char:EOLhyphen"/>clear'd, and an Acre of Land, producing the like quan<g ref="char:EOLhyphen"/>tity with Engliſh Ground, ſhall coſt 1 l. 5 s. 10 d. which at eight years purchaſe, ought to yeild three ſhillings two pence three farthings <hi>per Annum.</hi> Now, where it brings an increaſe equal to Land of ten ſhillings <hi>per Annum</hi> in <hi>Eng<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>and,</hi> and what it produces, yeilds not, at preſent, a leſs value, the advantage is almoſt four to one, which I conceive is no inconſiderable advance.</p>
+            <p>Having given this general <hi>account</hi> of Lands in thoſe parts <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f <hi>Amer<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ca,</hi> which for <hi>Variety</hi> of <hi>Earth,</hi> and <hi>Num<g ref="char:EOLhyphen"/>ber</hi> of <hi>Fountains,</hi> falls not ſhort, in my Opinion, of any Country I have ſeen in <hi>Europe;</hi> I ſhall in the next place, for their Help and Direction that intend thither,</p>
+            <p n="4">IV. Firſt, <hi>S<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t down the Charge of Tranſporting an or<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>in<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>y Family.</hi>
+            </p>
+            <p>Secondly, <hi>The Method and Charge of their ſetling a P<gap reason="illegible" resp="#UOM" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>ation when there,</hi> which will ſerve for all Ranks, proportion ſtill conſidered. I will ſuppoſe my ſelf worth but one hundred pounds.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell> </cell>
+                     <cell role="label">
+                        <hi>l.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>s.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>d.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>For my Self, W<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>fe and two Men Servants, at 5 po<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>nd per head, and one Child of ten years old, 50 s. (for to that age Children pay no more)</cell>
+                     <cell>22</cell>
+                     <cell>10</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>For a Tunn of Goods, each a Cheſt gratis,</cell>
+                     <cell>02</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>For the ſhip Doctor per head 2 <hi>s</hi> 6 <hi>d.</hi>
+                     </cell>
+                     <cell>00</cell>
+                     <cell>12</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell>For 4 Gallons of Brandy and 24 Pounds of Sug<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>r for the Voyage.</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>For Cloaths for my Servants, each 6 Shirts, 2 Waiſtcoats, a Summer and a Winter Shute, one H<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>t, 2 Pair of Shooes, Sto<g ref="char:EOLhyphen"/>kings and Drawers.</cell>
+                     <cell>12</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell role="total">38</cell>
+                     <cell role="total">02</cell>
+                     <cell role="total">06</cell>
+                  </row>
+               </table>
+            </p>
+            <p>When it pleaſes God we are well arrived, which I ſup<g ref="char:EOLhyphen"/>poſe to be about the firſt of <hi>October,</hi> the Firſt thing is to get a <hi>Lodging</hi> in ſome Town or Village at hand, for my, Fam<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ly, and there ſtay one Week, and take ſomething for our health, refreſh our ſelves, and adviſe where to ſettle, if my land be not already fixt: This done, I take my two men and g<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to my Lot, which is, ſay, <hi>five hundred Acr<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s.</hi> I lodg them at the next Village, or Houſe to the place, and then go to felling of Trees, proper for a firſt Houſe, which will very well ſerve for the preſent occaſion, and afterwards be a good out Houſe, till plenty will allow me to build a Better.</p>
+            <p>To build then, an Houſe of thirty foot long and eigh<g ref="char:EOLhyphen"/>teen foot broad, with a partition neer the middle, and an other to divide one end of the Houſe into two ſmall Roo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, there muſt be eight Trees of about ſixteen Inches ſquare, and cut off, to <hi>Poſts</hi> of about fifteen foot long, which the Houſe muſt ſtand upon; and four pieces, two of thirty foot long, and two of eighteen foot long, for <hi>Plates,</hi> which muſt lie upon the top of thoſe Poſts, the whole length and bredth of the Houſe, for the <hi>Gifts</hi> to reſt upon. There muſt be ten <hi>Gifts</hi> of twenty foot long, to be<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r the Loft, and two falſe <hi>Plates</hi> of thirty foot long to lie upon the ends of the <hi>Gifts</hi> for the <hi>Rafters</hi> to be fix<g ref="char:EOLhyphen"/>ed upon, twelve pare of <hi>Rafters</hi> of about twenty foot, to bear the Roof of the Houſe, with ſeveral other ſmall pieces; as <hi>Wind beams, Braces, Studs</hi> &amp;c. which are made out of the Waſte Timber. For Covering the Houſe, Ends, and Sides, and for the Loft, we uſe <hi>Clabboard,</hi> which is <hi>Rived feather edged,</hi> of five foot and a half long, that well Drawn, lyes cloſe and ſmooth: The Lodging Room may be lined with the ſame, and filld up be<g ref="char:EOLhyphen"/>tween, which is very Warm. Theſe houſes uſually endure ten years without Repair.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell> </cell>
+                     <cell role="label">
+                        <hi>l.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>s.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>d.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>For the Carpenters work for ſuch an Houſe, Land my Servants aſſiſting him together with his Diet.</cell>
+                     <cell>07</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>For a Barn of the ſame Building and Dimentions,</cell>
+                     <cell>05</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>For Nailes, and other things to f<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>niſh Both</cell>
+                     <cell>03</cell>
+                     <cell>10</cell>
+                     <cell>00</cell>
+                  </row>
+               </table>
+            </p>
+            <p>The lower flour is the <hi>Ground</hi> the upper <hi>Clabbord:</hi> This may ſeem a mean way of Building, but 'tis ſufficient and ſafeſt for ordinary beginners. 'Tis true, ſome of our Folks have exceeded much, even in Villages; but how wiſe they were in it, is the Queſtion: An ordi<g ref="char:EOLhyphen"/>nary Houſe, and a good Stock, is the Planters Wiſdom; Elſe, ſome of our Neighbouring Provinces, improv'd by perſons, whom Neceſſity had made ingenious and provi<g ref="char:EOLhyphen"/>dent, had not ſucceeded ſo well as they have done. How<g ref="char:EOLhyphen"/>beit, if better are deſired, people may have them ſutable to their abilities.</p>
+            <p>This Houſe may be finiſhed by the middle of <hi>Novem<g ref="char:EOLhyphen"/>ber,</hi> the Barn by the <hi>Spring,</hi> but there being little uſe for it till the next fall, it may be built at Leaſure, and the Winter imploy'd to clear Land for the Spring, by which time, they may eaſily have clear'd fifteen Acres.</p>
+            <p>The Spring come a ſtock muſt be bought.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell> </cell>
+                     <cell role="label">
+                        <hi>l.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>s.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>d.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>For three Milch Cows and Calves by their ſides.</cell>
+                     <cell>10</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>For a Yoke of Oxen,</cell>
+                     <cell>08</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>For a Breeding Mare,</cell>
+                     <cell>05</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>For two Young Sows and a Boar,</cell>
+                     <cell>01</cell>
+                     <cell>10</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell role="total">24</cell>
+                     <cell role="total">10</cell>
+                     <cell role="total">00</cell>
+                  </row>
+               </table>
+            </p>
+            <p>Here will fittly come in our Years Proviſion.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell> </cell>
+                     <cell role="label">
+                        <hi>l.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>s.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>d.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>To each perſon of the Family 8 Buſhels of Indian Corn at 2 <hi>s</hi> per Buſhel, and 5 Buſhels of Engliſh Wheat at 3 <hi>s</hi> 6 <hi>d</hi> per Buſhel, which comes for five per<g ref="char:EOLhyphen"/>ſons to,</cell>
+                     <cell>08</cell>
+                     <cell>07</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell>For two Barrels of Mollaſſes, for Beer,</cell>
+                     <cell>03</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>For Beef and Pork, at a 120 pounds per head, and 2 <hi>d</hi> per pound</cell>
+                     <cell>05</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>For 5 Gall. of Spirits, at 2 <hi>s</hi> per Gall.</cell>
+                     <cell>00</cell>
+                     <cell>10</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell role="total">16</cell>
+                     <cell role="total">17</cell>
+                     <cell role="total">06</cell>
+                  </row>
+               </table>
+            </p>
+            <p>I fall now to the Land I have clear'd to Plant, upo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> which, with Gods ordinary Providence, a Crop may be thus made of divers Grain, <hi>viz.</hi>
+            </p>
+            <p>
+               <table>
+                  <row>
+                     <cell> </cell>
+                     <cell role="label">
+                        <hi>l.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>s.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>d.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>The three Working hands may Plant and tend, eſpecially with a little help of the Woman and Boy 20000 Indian Corn Hills, which generally make about 400 Buſhels, which at 2 <hi>s</hi> per Buſhel coms to</cell>
+                     <cell>40</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>They may ſow eight Acres; half with Summer Wheat, and half with Oates, which computing at 15 Buſhels per Acre, there will be 120 Buſhels of both, and Oates at 2 <hi>s</hi> per Buſhel, and Wheat at 3 <hi>s</hi> 6 <hi>d</hi> per Buſhel, come to</cell>
+                     <cell>16</cell>
+                     <cell>10</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>To Indian Peaſe</cell>
+                     <cell>01</cell>
+                     <cell>10</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>To Gallavances and Patatoes</cell>
+                     <cell>01</cell>
+                     <cell>10</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell role="total">(a tollerable encreaſe)</cell>
+                     <cell role="total">59</cell>
+                     <cell role="total">10</cell>
+                     <cell role="total">00</cell>
+                  </row>
+               </table>
+            </p>
+            <p>By this time the Year is bought about, and <hi>October</hi> is come again. Let us ſee now what we are Worth.</p>
+            <p>
+               <table>
+                  <head>
+                     <hi>Planter</hi> Debitor.</head>
+                  <row>
+                     <cell> </cell>
+                     <cell role="label">
+                        <hi>l.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>s.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>d.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>TO Paſſage and Cloaths for my Ser<g ref="char:EOLhyphen"/>vants, being part of my firſt Prin<g ref="char:EOLhyphen"/>ciple</cell>
+                     <cell>38</cell>
+                     <cell>02</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell>To two months Lodging till an houſe be built</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>To an Houſe and Barn</cell>
+                     <cell>15</cell>
+                     <cell>10</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>To Proviſions for one Year for the Family</cell>
+                     <cell>16</cell>
+                     <cell>17</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell>To a Stock in Cows, Oxen, Swine and a Mare</cell>
+                     <cell>24</cell>
+                     <cell>10</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell role="total">96</cell>
+                     <cell role="total">00</cell>
+                     <cell role="total">00</cell>
+                  </row>
+                  <row>
+                     <cell>Reſt Due</cell>
+                     <cell>04</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell role="total">100</cell>
+                     <cell role="total">00</cell>
+                     <cell role="total">00</cell>
+                  </row>
+               </table>
+            </p>
+            <pb n="3" facs="tcp:179514:2"/>
+            <p>
+               <table>
+                  <head>Per Contr. <hi>Creditor</hi>
+                  </head>
+                  <row>
+                     <cell> </cell>
+                     <cell role="label">
+                        <hi>l.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>s.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>d.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>By the remaining part of my 100 pounds</cell>
+                     <cell>04</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>To the advance of five and twenty per Cent upon thirty pounds worth of goods to bring them to the <hi>sterling</hi> value of money</cell>
+                     <cell>07</cell>
+                     <cell>10</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>By an Houſe and Barn worth together with the aſſiſtance the Carpenter had</cell>
+                     <cell>30</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>By 15 Acres of Land Clear'd</cell>
+                     <cell>18</cell>
+                     <cell>15</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>By Corn and Grain, being the produce of this years Crop</cell>
+                     <cell>59</cell>
+                     <cell>10</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>By the ſtock, as good as when Bought,</cell>
+                     <cell>24</cell>
+                     <cell>10</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell role="total">144</cell>
+                     <cell role="total">05</cell>
+                     <cell role="total">00</cell>
+                  </row>
+               </table>
+            </p>
+            <p>With the overplus of the Grain I have, to what <hi>I</hi> want, <hi>I</hi> furniſh my ſelf the enſuing Year with two Barrels of Mollaſſes, two of Meat, and two of Fiſh, to ſave my young ſtock; and proceed to clear more Land for <hi>Indian Corn</hi> and <hi>Oates,</hi> and Imploy the other Land to <hi>Engliſh Wheat</hi> and <hi>Barley:</hi> A <hi>Garden Plat,</hi> next the Houſe, and an Acre in an <hi>Orchard,</hi> follow of courſe. And thus <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>end with my ſettlement of a Plantation, leaving the <hi>Planter</hi> to live by his induſtry and encreaſe, and make what he can of the reſt of his five hundred Acres, that for the ſake of this very ſetlement, is in reputation worth, <hi>three times more then it was.</hi>
+            </p>
+            <p>For thoſe that have greater abilities, and aim at better ſettlements, they have the means in their own Hands, and the People of the Country skill enough to anſwer their deſires be it in fine <hi>Timber</hi> or very good <hi>Brick</hi> Buildings. But for the <hi>Poorer</hi> ſort, that either can but juſt tranſport themſelves, or that are not well able of them<g ref="char:EOLhyphen"/>ſelves to do that, I ſhall, for the encouragement of ſuch, as well as of thoſe that ſhall aſſiſt them, propoſe my for<g ref="char:EOLhyphen"/>mer Meth<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ds ſomewhat better explain'd.</p>
+            <p n="5">V. The way the Poorer ſort may be tranſported, with advantage to the Rich that hely them, is thus;</p>
+            <p>In the firſt place, there are ſuch as are able to tranſport themſelves and Families, but are unable to build or ſtock themſelves when they are there; others that have not e<g ref="char:EOLhyphen"/>nough to Tranſport themſelves and Families, and ſuch will come under a different Conſideration.</p>
+            <p>The firſt of theſe may be entertained in this manner, Say I have 5000 Acres, I will ſettle <hi>Ten Families</hi> upon them, in way of Village, and build each an houſe, an out-houſe for Cattle, furniſh every Family with Stock; as four <hi>Cows,</hi> two <hi>Sows,</hi> a couple of <hi>Mares,</hi> and a yoke of <hi>Oxen,</hi> with a Town <hi>Horſe, Bull</hi> and <hi>Boar;</hi> I find them with Tools, and give each their firſt Ground-ſeed. They ſhall continue <hi>Seven</hi> Years, or more, as we agree, at <hi>half encreaſe,</hi> being bound to leave the Houſes in re<g ref="char:EOLhyphen"/>pair, and a <hi>Garden</hi> and <hi>Orchard,</hi> I paying for the Trees, and at leaſt <hi>twenty Acres</hi> of Land within <hi>Fence,</hi> and <hi>improved</hi> to corn and graſs: The charge will come to about <hi>ſixty</hi> pounds Engliſh for each Family: At the ſeven years end, the Improvement Will be worth, as things go now, 120 <hi>l.</hi> beſides the value of the <hi>encreaſe</hi> of the Stock, which may be near as much more, allowing for caſualties; eſpecially, if the People are honeſt and care<g ref="char:EOLhyphen"/>ful, or a man be upon the ſpot himſelf, or have an Over<g ref="char:EOLhyphen"/>ſeer ſometimes to inſpect them. The charge in the whole is 832 <hi>l.</hi> And the value of ſtock and improvements 2400 <hi>l.</hi> I think I have been modeſt in my computation. Theſe <hi>Farms</hi> are afterwards fit for <hi>Leaſes</hi> at <hi>full</hi> Rent, or how elſe the Owner ſhall pleaſe to diſpoſe of them. Alſo the People will by this time be skilled in the Country, and well provided to ſettle themſelves with ſtock upon their own Land, which ſhall be a thouſand Acres their <hi>Land<g ref="char:EOLhyphen"/>lord</hi> will give them, which is one hundred to each Family, in ſome part of his five thouſand Acres, they only paying for the ſame ten ſhillings yearly, which is a ſhilling for each Family.</p>
+            <p>The advantage of this way, is chiefly to thoſe that go, for as the benefit ſeems greater, ſo is the hazard, by loſs or embezlement of ſtock, unleſs one were preſent, or a dilligent and honeſt Overſeer there: But thoſe that deſign going, and have money, and aim to live with moſt Eaſe, cannot do better; for the half encreaſe of the ſtock and labour of thoſe Families will ſupply them with Proviſions; ſo that they need not toyl, in a way, they are perhaps un<g ref="char:EOLhyphen"/>acquainted with, for their accomodations of life. And if half encreaſe be thought a way too uncertain, it may be brought to a certain value, by paying a yearly Rent for ſuch ſtock as aforeſaid.</p>
+            <p>The other ſort of <hi>poor people</hi> may be very beneficially tranſported upon theſe terms: Say I ave 5000 <hi>Acres</hi> I ſhould ſettle as before, I will give to each Family 100 <hi>Acres,</hi> which in the whole makes 1000; and to each Fa<g ref="char:EOLhyphen"/>mily <hi>thirty pounds</hi> Engliſh, half in hand, and half there, which in the whole comes to 300 <hi>l.</hi> After four years are expired, in which time they may be eane, and in a good condition, they ſhall each of them pay <hi>five pounds, and ſo yearly for ever, as a Fee-farm rent;</hi> which in the whole comes to 50 <hi>l.</hi> a Year. Thus a man that buys 5000 <hi>Acres</hi> may ſecure and ſettle his 4000 by the gift of one, and in a way, that hazard and intereſt allowed for, amounts to at leaſt ten <hi>per cent.</hi> upon Land ſecurity; be<g ref="char:EOLhyphen"/>ſides the value it puts upon the reſt of the 5000. <hi>Acres,</hi> which will be, for that reaſon, really worth three times as much as before. In theſe Families I propoſe that there be at leaſt <hi>two working hands</hi> beſides the <hi>wife,</hi> whether ſon or ſervant; and that they oblige what they carry; and for further ſecurity bind themſelves as ſervants for ſome time, that they will ſettle the ſaid land accordingly, and when they are once ſeated, their improvements are <hi>ſecurity</hi> enough for the Rent.</p>
+            <p>There is yet another expedient, and that is, give to, <hi>ten Families</hi> 1000 <hi>Acres</hi> forever, at a <hi>ſmall acknowledge<g ref="char:EOLhyphen"/>ment,</hi> and ſettle them in way of Village, as before; by their ſeating thus, the Land taken up is ſecured from o<g ref="char:EOLhyphen"/>thers, becauſe the <hi>method</hi> of the Country is anſwered and the value ſuch a ſettlement gives to the reſt reſerved, is not inconſiderable; I mean, the 4000 <hi>Acres;</hi> eſpecially that which is <hi>Contiguous:</hi> For their <hi>Children</hi> when grown up, and Handicrafts will ſoon covet to fix next them, and ſuch after ſettelments beginning at an <hi>Improved Rent in Fee, or for long Leaſes, on ſmall Acknowledge<g ref="char:EOLhyphen"/>ments, and good Improvements,</hi> muſt advance the whole conſiderably. I conceive any of theſe methods to iſſue in a ſufficient advantage to Adventurers, and they all give good encouragement to feeble and poor Families. Now I know ſome think this looks a little hard upon the People that are to pay the ſaid Rent, the thing that is moſt con<g ref="char:EOLhyphen"/>trary to my inclinations, as well as deſign in making this propoſal. But I am of another mind; for in <hi>Ire<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>and,</hi> money bears the Intereſt of <hi>ten per cent:</hi> Thirty pounds then, will deſerve three pounds a Year, three Years In<g ref="char:EOLhyphen"/>tereſt makes <hi>Nine pounds.</hi> The 100 Acres ſurveyed and Patented are worth eight pounds at leaſt, for that is one of the loweſt priſes Parchaſers ſell again at. The Intereſt of this eight pounds for three Years at <hi>ten per cent,</hi> is <hi>Eight and forty ſhillings;</hi> there is alſo three ſhillings for three years rent. Now put the thrity, the nine, the eight and the two pounds eight ſhillings, and the three ſhillings together, and there will be <hi>forty nine pounds eleven ſhil<g ref="char:EOLhyphen"/>lings,</hi> which wants but twelve ſhillings of <hi>fifty pounds,</hi> and you advance no more then money does in <hi>Ireland,</hi> that is neerer home, and an improv'd Country. To which add, the hazard that is Run, in this way, above a double Bond for the payment of the fifty pounds in <hi>Ireland;</hi> for if the ſhip periſh, my money is gone, if the man or work<g ref="char:EOLhyphen"/>ing hands Dye, I have a Charge inſtead of a Revenue that will follow me; which plainly evidences that the pro<g ref="char:EOLhyphen"/>poſition is not grievous, but re<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſonable and charitable too, and eſpecially when we Conſider that <hi>Sixty five Dayes</hi> out of the Year, at eighteen pence by Day, will, within half a crown, pay the Rent, and he has <hi>three Hun<g ref="char:EOLhyphen"/>dred</hi> to himſelf. Nor is this ail, he is come to a Country where Land is cheap, and does Piſe, and where thoſe
+<pb n="4" facs="tcp:179514:3"/>that have hands cannot but <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> way too, not ſub<g ref="char:EOLhyphen"/>ject to the Contingences and decays of Trades; for as be<g ref="char:EOLhyphen"/>low the grownd none can fall, ſo here every one falls upon his own; which brings me to the Sixth Particular, about the benefit theſe Countries bring to <hi>Poſterity.</hi>
+            </p>
+            <p n="6">VI. <hi>There is an eaſier and better proviſion to be made there for Poſterity, eſpecially of ſuch as are not of great Subſtance.</hi> I never thought, but mere Trades would do as well here as there, but when People have gain'd ſomething here by their ingenuity and Toyl, ſay 1000 <hi>l.</hi> how much Land will that buy here, and how much in<g ref="char:EOLhyphen"/>com will that fetch; perhaps 50 l. per Ann. on Bond, or 40 in Land, which at 10 <hi>s.</hi> by the Acre, comes to four<g ref="char:EOLhyphen"/>ſcore Acres. This, to bring up five Children, <hi>Feed, Cloath, School,</hi> and <hi>Portion them,</hi> will be very ſcanty; but then, what will this do to Eſtate their Children, and ſo forward.</p>
+            <p>Now in <hi>America,</hi> a thouſand Pounds diſcreetly laid out, is an Exchequer to a Family. I will ſuppoſe I have one hundred Pounds in Land, which contains 3000 Acres. This I ſtock, to half increaſe, for 360 l. upon this half increaſe I live well, till my Children are of age. By this time at leaſt, the Tennants Term is up, and I place my Children in thoſe Tenements, with a proportion of ſtock, without Portions or Rents to pay: Each has 500 Acres, beſides my five hundred after my deceaſe. If each of them have five Children, there is an hundred Acres apiece for them, beſides the 500 Acres I leave them; and if any take to Trades, the reſt have the more Land. By this time, an hundred Acres may be reaſonably preſum'd to be worth as much as a 1000 was in their Fathers time, and it muſt advance yet: All improv'd Countries teach us this. Now this is a way of putting people into the natural Channel of life, to wit, <hi>Agriculture,</hi> and of Adjour<g ref="char:EOLhyphen"/>ning care for poſterity to the Fourth Generation. Let it be remembred that there is but 360 <hi>l.</hi> expended of the 1000 <hi>l.</hi> ſo that to carry me and my Family, and ſettle us in ſome proportion to our Degree, as alſo to Traffick and encreaſe portions, there reſts 540 <hi>l.</hi> now if a 1000 <hi>l.</hi> in <hi>Europe,</hi> cannot have ſo natural an increaſe, free of thoſe Contigences that other means of life are ſubject to, I conceive <hi>America</hi> ſomewhat a better place for the good of Poſterity, eſpecially of ſuch as are not wealthy, o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> have many Children, that they would not ſhould too un<g ref="char:EOLhyphen"/>equally live and be provided for.</p>
+            <p n="7">VII. Now as to what Utenſels and Goods are fitteſt to carry for uſe and profit, I ſay, in general, all things relating to <hi>Apparrel, Building, Houſholdſtuff, Husbandry, Fowling</hi> and <hi>Fiſhing:</hi> but for Particulars, <hi>Engliſh Woollen,</hi> and <hi>German Linnen,</hi> As ordinary <hi>Broad-Clothes Kereſeys, Searges, Norwich-Stuffs,</hi> ſome <hi>Duffels, Cot<g ref="char:EOLhyphen"/>tons</hi> and <hi>Stroud-waters,</hi> for the Natives, and <hi>White</hi> and <hi>Blew</hi> Ozenburgs, <hi>Shoes,</hi> and <hi>Stockins, Buttons, Silk, Threed, Iron ware,</hi> eſpecially, <hi>Felling Axes, Hows, Indian Hows, Saws, Frows, Drawing-Knives, Natles,</hi> but of 6. <hi>d,</hi> and 8. <hi>d.</hi> a treble quantity, becauſe they uſe them for ſhingling, or covering of Houſes. <hi>Powder</hi> and <hi>Lead</hi> are often wanted for the <hi>Woods,</hi> in Winter for Water Fowl, that are very numerous. There are leſſer things that will be convenient to carry; but being trivial in themſelves, and what People can hardly miſs to think upon; I ſhall cloſe this Information and Direction with my uſual Cauti<g ref="char:EOLhyphen"/>on, and good Wiſhes. Let none be Haſty or Preſumptu<g ref="char:EOLhyphen"/>ous. The even humble Temper will beſt endure the differ<g ref="char:EOLhyphen"/>ence of the Change either way. A Wilderneſs muſt want ſome things improv'd Countries do enjoy; but Time and Labour will reprize, where Induſtry ſooner makes an In<g ref="char:EOLhyphen"/>heritance. And tho we have not the Ornaments of Life, we want not the Conveniences; and if their Coſt were put in Ballance with their Benefit, the World would be great<g ref="char:EOLhyphen"/>ly debtor on Account. If then we have leſs of Art, we have more of Nature; and the Works of God are fitter objects for meditation and Delight; then the Inventions of men: In vain do we admire the Firſt and Simpler Ages of the World, and ſtile them Golden, while we object againſt <hi>America Ruſticity</hi> and <hi>Solitude.</hi>
+            </p>
+            <p>I will Say no more, but if <hi>Jacob</hi> dwelt in Tents, and Herds and Flocks were his Revenue, a Life like his ſhould be no ſtop with thoſe that love his Plainneſs and Integrity. I beſeech God it may be ſo with them that go, and I am ſure they will not have much Reaſon to repent their Change.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:179514:3"/>
+         </div>
+      </body>
+   </text>
+</TEI>
